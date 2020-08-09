@@ -19,6 +19,11 @@
             "title": "Arrange Code"
 		}]
 	},
+	"publisher": "Ashwin",
+	"repository": {
+		"url": "https://github.com/Ash110/Ascending-Code"
+	},
+	"icon": "",
 	"scripts": {
 		"lint": "eslint .",
 		"pretest": "yarn run lint",

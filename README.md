@@ -1,3 +1,6 @@
+
+[Click here to Install the Extension](https://marketplace.visualstudio.com/items?itemName=Ashwin.ascending-code)
+
 # ascending-code README
 
 Code in random order is extremely annoying for everyone. Some parts of your code can and should be arranged to make it look neater. This plugin aims to remove all that manual work by automatically arranging any code snippet you choose in Ascending order.
