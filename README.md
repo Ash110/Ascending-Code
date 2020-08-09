@@ -8,7 +8,7 @@ Code in random order is extremely annoying for everyone. Some parts of your code
 ## Features
 
 
-![Check it out](https://github.com/Ash110/Ascending-Code/raw/master/preview.gif)
+![Check it out](https://github.com/Ash110/Ascending-Code/blob/master/preview.gif?raw=true)
 
 
 ## Requirements
