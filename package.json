@@ -23,7 +23,7 @@
 	"repository": {
 		"url": "https://github.com/Ash110/Ascending-Code"
 	},
-	"icon": "",
+	"icon": "logo.png",
 	"scripts": {
 		"lint": "eslint .",
 		"pretest": "yarn run lint",
